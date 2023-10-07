@@ -1,33 +1,29 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Helpdesk Support",
+            "subtitle": "Sontec Technology Co Ltd.",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Problem-solving on POS",
+                "Maintain Oracle DB,Firebird DB",
+                "Database searching."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "02/2023 – 05/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Technical Support Assistant",
+            "subtitle": "Speedy Group Corporation",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Problem-solving on Hardware,Software,Network",
+                "Account management using Active Directory",
+                "Video editing",
+                "Gov website system : Websams",
+                "Website management",
+                "PC Cloning"
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "08/2020 - 08/2021"
         }
     ]
 }
