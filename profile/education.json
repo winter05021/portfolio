@@ -1,0 +1,23 @@
+{
+    "education":[
+        {
+            "title": "Sep 2016 - Jun 2020",
+            "cardTitle": "Higher Diploma in Game Software Development",
+            "cardSubtitle":"Hong Kong Institute of Vocational Education",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/IVE.png"
+            }
+        },
+        
+        {
+            "title": "2009 - 2016",
+            "cardTitle": "Information and Communcations Technology(ICT)",
+            "cardSubtitle":"Clementi Secondary School",
+            "cardDetailedText": "Got 4 in HKDSE ICT",
+            "icon" : {
+                "src": "images/education/clementi.png"
+            }
+        }
+    ]
+}
